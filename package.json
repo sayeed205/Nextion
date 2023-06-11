@@ -1,0 +1,46 @@
+{
+    "name": "nextion",
+    "version": "0.0.1",
+    "description": "Blog site using nextjs as frontend and notion as db and cms",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sayeed205/Nextion.git"
+    },
+    "keywords": [
+        "blog",
+        "nextjs",
+        "cms",
+        "notion",
+        "reactjs"
+    ],
+    "author": {
+        "name": "Sayed Ahmed",
+        "email": "sayeed205@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sayeed205/Nextion/issues"
+    },
+    "homepage": "https://github.com/sayeed205/Nextion#readme",
+    "dependencies": {
+        "next": "^13.2.4",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.15.11",
+        "@types/react": "^18.2.11",
+        "@types/react-dom": "^18.2.4",
+        "autoprefixer": "^10.4.14",
+        "postcss": "^8.4.21",
+        "tailwindcss": "^3.2.7",
+        "typescript": "^5.0.2"
+    }
+}
